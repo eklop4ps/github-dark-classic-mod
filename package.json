@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/eklop4ps/github-dark-classic-mod.git"
+  },
   "contributes": {
     "themes": [
       {
