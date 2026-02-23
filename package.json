@@ -1,0 +1,21 @@
+{
+  "name": "github-dark-classic-mod",
+  "displayName": "Github Dark Classic Mod",
+  "description": "A modified copy of Github Dark (Classic) theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Dark (Classic) Mod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Github Dark (Classic) Mod-color-theme.json"
+      }
+    ]
+  }
+}
