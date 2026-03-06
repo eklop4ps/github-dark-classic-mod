@@ -2,18 +2,24 @@
   "name": "github-dark-classic-mod",
   "displayName": "Github Dark Classic Mod",
   "description": "A modified copy of Github Dark (Classic) theme for VS Code",
-  "publisher":"4PS",
   "version": "0.0.2",
+  "publisher":"4PS",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/eklop4ps/github-dark-classic-mod.git"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
   "categories": [
     "Themes"
   ],
-  "repository":{
-    "type": "git",
-    "url": "https://github.com/eklop4ps/github-dark-classic-mod.git"
-  },
   "contributes": {
     "themes": [
       {
