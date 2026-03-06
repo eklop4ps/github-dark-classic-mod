@@ -2,7 +2,8 @@
   "name": "github-dark-classic-mod",
   "displayName": "Github Dark Classic Mod",
   "description": "A modified copy of Github Dark (Classic) theme for VS Code",
-  "version": "0.0.1",
+  "publisher":"4PS",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.109.0"
   },
