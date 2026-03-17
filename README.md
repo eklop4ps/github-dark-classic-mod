@@ -4,6 +4,11 @@ A static copy of the Github Dark (Classic) VS Code theme.
 
 ## Changelog
 
+### 0.0.4
+- `dropdown.listBackground`: #24292e -> #39414a
+- `list.hoverBackground` #2b3036 -> #39414a
+- `list.inactiveSelectionBackground` #2b3036 -> #39414a
+
 ### 0.0.3
 - `editor.background`: #1e2329 -> #1a1f22
 
