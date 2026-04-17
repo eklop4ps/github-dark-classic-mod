@@ -2,7 +2,13 @@
 
 A static copy of the Github Dark (Classic) VS Code theme.
 
+## Installation
+Download the [latest](https://github.com/eklop4ps/github-dark-classic-mod/releases/latest) release, and drag the file into the Extensions panel in VS Code.
+
 ## Changelog
+
+### 0.0.5
+- Required VS Code version lowered to `1.108.0`
 
 ### 0.0.4
 - `dropdown.listBackground`: #24292e -> #39414a
