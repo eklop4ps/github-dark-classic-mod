@@ -2,7 +2,7 @@
   "name": "github-dark-classic-mod",
   "displayName": "Github Dark Classic Mod",
   "description": "A modified copy of Github Dark (Classic) theme for VS Code",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher":"4PS",
   "license": "MIT",
   "icon": "icon.png",
@@ -26,6 +26,11 @@
         "label": "Github Dark (Classic) Mod",
         "uiTheme": "vs-dark",
         "path": "./themes/Github Dark (Classic) Mod-color-theme.json"
+      },
+      {
+        "label": "Github Dark (Classic) Mod (Rsms)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Github Dark (Classic) Mod-Rsms-color-theme.json"
       }
     ]
   }
