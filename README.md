@@ -7,6 +7,12 @@ Download the [latest](https://github.com/eklop4ps/github-dark-classic-mod/releas
 
 ## Changelog
 
+### 0.0.7
+Rsms theme: `#6a737d` -> `#8e969f` (25% lighter)
+
+### 0.0.6
+Rsms theme ported
+
 ### 0.0.5
 - Required VS Code version lowered to `1.108.0`
 
